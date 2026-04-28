@@ -5,15 +5,22 @@ title = 'Going Home'
 +++
 
 
-the second game I ever made
-# 
-
-game where you walk homewith social anxiety
+## Overview
+Going Home is the second game I ever worked on. It was made for a Uni project. The objective of the game is to try to make your way home without suffering from an anxiety attack. The theme I was given for the project was to make a narrative emotional experience
 
 
+## Gameplay
+Make your way home!
+![image](/test.png)
 
-You must make your way home from work while avoiding other people to avoid having an anxiety attack.
+Avoid all social interaction!
 
 
-[Link](/about/)
+Don't get close!
 
+
+## Play Here
+[bakerboy16.itch.io](https://bakerboy16.itch.io/are-you-sure-you-want-to-play-this)
+
+## Credits
+[Unity Game Engine](https://unity.com/)

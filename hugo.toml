@@ -9,7 +9,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
 [params]
     brand = "Ben Baker"                      # name of your site - appears in the sidebar
-    brand_image = "/test.png"    # path to the image shown in the sidebar
+    brand_image = "/Image.jpg"    # path to the image shown in the sidebar
     description = "Portfolio" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
@@ -26,6 +26,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         {Name = "About", URL = "/about/", HasChildren = false},
 	{Name = "Games", URL = "/games/", HasChildren = true, Limit = 5},
 	{Name = "Jams", URL = "/jams/", HasChildren = true, Limit = 5},
+	{Name = "Other Projects", URL = "/otherprojects/", HasChildren = true, Limit = 5},
 	{Name = "Get in touch", URL = "/Email/", HasChildren = true, Limit = 5},
 
         

@@ -4,23 +4,27 @@ draft = false
 title = 'Are you sure you want to play this?'
 +++
 
-## About the game
+## Overview
 
-Games 2
-## gameplay
+In this game demo you play as a beta tester, going through an assortment of different games and "play testing" them for a developer.
 
-good game
+This was made for a Uni project with the theme given being "Comedy". This project was developed using [Unity Game Engine](https://unity.com/).
+ I have no plans to continue development at the moment.
 
 
+## Gameplay
+Play through an assortment of experiences
 
+give feedback
+
+ESCAPE 
+
+## Play Here
+[bakerboy16.itch.io](https://bakerboy16.itch.io/are-you-sure-you-want-to-play-this)
 
 ## Credits
-
-
-
-
 [Unity Game Engine](https://unity.com/)
 
 
-[Link](/about/)
+
 

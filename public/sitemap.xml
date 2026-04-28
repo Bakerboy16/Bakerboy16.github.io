@@ -32,10 +32,16 @@
     <loc>http://localhost:1313/games/hgd/</loc>
     <lastmod>2026-02-10T10:48:52+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/jams/</loc>
+    <lastmod>2026-02-10T10:48:52+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/jams/dev/</loc>
     <lastmod>2026-02-10T10:48:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jams/</loc>
+    <loc>http://localhost:1313/otherprojects/dev/</loc>
+    <lastmod>2026-02-10T10:48:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/otherprojects/</loc>
     <lastmod>2026-02-10T10:48:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/</loc>

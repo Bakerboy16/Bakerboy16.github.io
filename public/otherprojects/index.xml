@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Otherprojects on </title>
+    <link>http://localhost:1313/otherprojects/</link>
+    <description>Recent content in Otherprojects on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Feb 2026 10:48:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/otherprojects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mocap director experience</title>
+      <link>http://localhost:1313/otherprojects/dev/</link>
+      <pubDate>Tue, 10 Feb 2026 10:48:52 +0000</pubDate>
+      <guid>http://localhost:1313/otherprojects/dev/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;For a University project I was given the chance to write and direct a new mocap scene for a pre existing game as an imaginary DLC. this was all made possible via a collaboration between The university of east London and Target3D. The game I choose to write this imaginary DLC cutscene for was Metal Gear Solid 3. The scene I wrote, was about two of the games antagonists, Revolver Ocelot, and The Boss, getting a moment alone together and finally confronting each other about being mother and son, and why The Boss left her son.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
