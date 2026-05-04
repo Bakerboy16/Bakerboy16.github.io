@@ -34,7 +34,7 @@
       <link>http://localhost:1313/games/fpsd/</link>
       <pubDate>Tue, 10 Feb 2026 10:48:52 +0000</pubDate>
       <guid>http://localhost:1313/games/fpsd/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This Is a very small project, I wanted to work on testing high maneuverability mechanics I had worked on previously, and pairing them with an fps style level. admittedly It didn&amp;rsquo;t end up too great, but I did end up learning quite a lot from it, which I am now applying to my current projects.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;&#xA;&lt;p&gt;Shoot your way through the haunted house!&#xA;&lt;img src=&#34;http://localhost:1313/test.png&#34; alt=&#34;image&#34;&gt;&#xA;collect Items!&lt;/p&gt;&#xA;&lt;p&gt;Get Out!&lt;/p&gt;&#xA;&lt;h2 id=&#34;play-here&#34;&gt;Play Here&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bakerboy16.itch.io/are-you-sure-you-want-to-play-this&#34; target=&#34;_blank&#34;&gt;bakerboy16.itch.io&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This Is a very small project, I wanted to work on testing high maneuverability mechanics I had worked on previously, and pairing them with an fps style level. admittedly It didn&amp;rsquo;t end up too great, but I did end up learning quite a lot from it, which I am now applying to my current projects.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;&#xA;&lt;p&gt;Shoot your way through the haunted house!&#xA;&lt;img src=&#34;http://localhost:1313/Image.jpg&#34; alt=&#34;image&#34;&gt;&#xA;collect Items!&lt;/p&gt;&#xA;&lt;p&gt;Get Out!&lt;/p&gt;&#xA;&lt;h2 id=&#34;play-here&#34;&gt;Play Here&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bakerboy16.itch.io/are-you-sure-you-want-to-play-this&#34; target=&#34;_blank&#34;&gt;bakerboy16.itch.io&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Going Home</title>
@@ -58,9 +58,9 @@
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Mirari was made for the Ukie Student Game Jam 2026 that took place over 26-27th of February and lasted 32 hours.&lt;/p&gt;&#xA;&lt;p&gt;The theme of the jam was symmetry, based on this we developed a Sokoban-style puzzle game where you play as a sentient mirror who instead of pushing boxes, reflect them to the other side of yourself. This leads to unique puzzle designs where positioning and distances are very important. There are also some additional mechanics you will discover as you play.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Mocap director experience</title>
+      <title>Mocap directing experience</title>
       <link>http://localhost:1313/otherprojects/dev/</link>
-      <pubDate>Tue, 10 Feb 2026 10:48:52 +0000</pubDate>
+      <pubDate>Tue, 26 Nov 2024 10:48:52 +0000</pubDate>
       <guid>http://localhost:1313/otherprojects/dev/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;For a University project I was given the chance to write and direct a new mocap scene for a pre existing game as an imaginary DLC. this was all made possible via a collaboration between The university of east London and Target3D. The game I choose to write this imaginary DLC cutscene for was Metal Gear Solid 3. The scene I wrote, was about two of the games antagonists, Revolver Ocelot, and The Boss, getting a moment alone together and finally confronting each other about being mother and son, and why The Boss left her son.&lt;/p&gt;</description>
     </item>
