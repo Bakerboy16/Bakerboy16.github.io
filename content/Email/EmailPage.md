@@ -4,28 +4,16 @@ draft = false
 title = 'Email'
 +++
 
-```
 
-donufguhdhgr
-ekmrgd
-sef
-s
-
-ssd
-
-s
-
-```
-
-![image](/public/Image.jpg)
 
 
 
+```
 
 bakerbusiness16@gmail.com
 
 
-
+```
 
 
 

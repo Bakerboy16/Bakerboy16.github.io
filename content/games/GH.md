@@ -10,17 +10,18 @@ Going Home is the second game I ever worked on. It was made for a Uni project. T
 
 
 ## Gameplay
-Make your way home!
-![image](/test.png)
+# Make your way home!
+![image](/GoHome.png)
 
-Avoid all social interaction!
+# Avoid all social interaction!
+![image](/Avoid.png)
 
 
-Don't get close!
-
+# Don't get close!
+![image](/Careful.png)
 
 ## Play Here
-[bakerboy16.itch.io](https://bakerboy16.itch.io/are-you-sure-you-want-to-play-this)
+[bakerboy16.itch.io](https://bakerboy16.itch.io/going-home)
 
 ## Credits
 [Unity Game Engine](https://unity.com/)

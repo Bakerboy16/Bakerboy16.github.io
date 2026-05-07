@@ -13,11 +13,18 @@ This was made for a Uni project with the theme given being "Comedy". This projec
 
 
 ## Gameplay
-Play through an assortment of experiences
+ # Play through an assortment of experiences
+![image](/SH.png)
 
-give feedback
+![image](/DS.png)
 
-ESCAPE 
+![image](/UK.png)
+
+# give feedback
+![image](/FB.png)
+
+# ESCAPE 
+![image](/ES.png)
 
 ## Play Here
 [bakerboy16.itch.io](https://bakerboy16.itch.io/are-you-sure-you-want-to-play-this)

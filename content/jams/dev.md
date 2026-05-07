@@ -11,13 +11,16 @@ The theme of the jam was symmetry, based on this we developed a Sokoban-style pu
 I was responsible for helping with the gameplay loop, puzzle elements, some levels, as well as all art assets. Before this jam, I had only used blender once a few years prior, so I had to teach myself blender on the fly to help support getting all the assets for the jam. In addition to having to learn blender it was also my first ever time using Godot game engine so I had to learn how to navigate that effectively as well. Our programmer, [Abby](https://just-a-bee.github.io/) was a great help in helping me learn Godot during the jam. 
 
 ## Gameplay
-Reflect objects!
+# Reflect objects!
+![image](/Flip.png)
 
-Push buttons!
+# Push buttons!
+![image](/Button.png)
 
-Can you solve it?
+# Can you solve it?
+![image](/Solve.png)
 
 ## Credits
-[Abby Smith](https://just-a-bee.github.io/), and [Dexter love](https://www.linkedin.com/in/dexter-love-285357257)
+[Abby Smith](https://just-a-bee.itch.io/ukie-2026)
  
 [Godot game engine](https://godotengine.org/)
