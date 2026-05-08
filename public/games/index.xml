@@ -6,42 +6,42 @@
     <description>Recent content in Games on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Feb 2026 10:48:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 10:48:52 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Are you sure you want to play this?</title>
-      <link>http://localhost:1313/games/aysywtpt/</link>
-      <pubDate>Tue, 10 Feb 2026 10:48:52 +0000</pubDate>
-      <guid>http://localhost:1313/games/aysywtpt/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;In this game demo you play as a beta tester, going through an assortment of different games and &amp;ldquo;play testing&amp;rdquo; them for a developer.&lt;/p&gt;&#xA;&lt;p&gt;This was made for a Uni project with the theme given being &amp;ldquo;Comedy&amp;rdquo;. This project was developed using &lt;a href=&#34;https://unity.com/&#34; target=&#34;_blank&#34;&gt;Unity Game Engine&lt;/a&gt;.&#xA;I have no plans to continue development at the moment.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;&#xA;&lt;h1 id=&#34;play-through-an-assortment-of-experiences&#34;&gt;Play through an assortment of experiences&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SH.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/DS.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/UK.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;give-feedback&#34;&gt;give feedback&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/FB.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;escape&#34;&gt;ESCAPE&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/ES.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+      <title>FPS demo</title>
+      <link>http://localhost:1313/games/fpsd/</link>
+      <pubDate>Mon, 28 Apr 2025 10:48:52 +0000</pubDate>
+      <guid>http://localhost:1313/games/fpsd/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This Is a very small project, I wanted to work on testing high maneuverability mechanics I had worked on previously, and pairing them with an fps style level. admittedly It didn&amp;rsquo;t end up too great, but I did end up learning quite a lot from it, which I am now applying to my current projects.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;&#xA;&lt;h1 id=&#34;shoot-your-way-through-the-haunted-house&#34;&gt;Shoot your way through the haunted house!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/House.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;collect-items&#34;&gt;Collect Items!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Item.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;get-out&#34;&gt;Get Out!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Go.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>First person frogger</title>
       <link>http://localhost:1313/games/fpfd/</link>
-      <pubDate>Tue, 10 Feb 2026 10:48:52 +0000</pubDate>
+      <pubDate>Wed, 02 Apr 2025 10:48:52 +0000</pubDate>
       <guid>http://localhost:1313/games/fpfd/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This is a very small game that I challenged myself to create in only 2 days. Its exactly what its says on the tin, It&amp;rsquo;s frogger but in first person. The objective is simple, navigate past deadly obstacles to make your way towards picking up The doughnut&lt;/p&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;&#xA;&lt;h1 id=&#34;jump-around&#34;&gt;Jump around!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Jump.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;navigate-deadly-obstacles&#34;&gt;Navigate deadly obstacles!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Road.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Bridges.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;get-the-doughnut&#34;&gt;Get the doughnut!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Doughnut.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;play-here&#34;&gt;Play Here&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bakerboy16.itch.io/first-person-frogger-demo&#34; target=&#34;_blank&#34;&gt;bakerboy16.itch.io&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://unity.com/&#34; target=&#34;_blank&#34;&gt;Unity Game Engine&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>FPS demo</title>
-      <link>http://localhost:1313/games/fpsd/</link>
-      <pubDate>Tue, 10 Feb 2026 10:48:52 +0000</pubDate>
-      <guid>http://localhost:1313/games/fpsd/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This Is a very small project, I wanted to work on testing high maneuverability mechanics I had worked on previously, and pairing them with an fps style level. admittedly It didn&amp;rsquo;t end up too great, but I did end up learning quite a lot from it, which I am now applying to my current projects.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;&#xA;&lt;h1 id=&#34;shoot-your-way-through-the-haunted-house&#34;&gt;Shoot your way through the haunted house!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/House.PNG&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;collect-items&#34;&gt;Collect Items!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Item.PNG&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;get-out&#34;&gt;Get Out!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Go.PNG&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+      <title>Horror game demo</title>
+      <link>http://localhost:1313/games/hgd/</link>
+      <pubDate>Tue, 18 Mar 2025 10:48:52 +0000</pubDate>
+      <guid>http://localhost:1313/games/hgd/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;A small horror game I made in a week, I wanted try my hand at creating an eerie environment, as well as enemy chase AI programming. It ended up being fun to learn and create, also learnt a lot about designing a maze in which you get chased around.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;&#xA;&lt;h1 id=&#34;search-for-levers&#34;&gt;search for levers!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Levers.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;avoid-the-eyes&#34;&gt;Avoid the eyes!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Eye.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;get-out&#34;&gt;Get Out!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/GetOut.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;play-here&#34;&gt;Play Here&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bakerboy16.itch.io/horror-game-demo&#34; target=&#34;_blank&#34;&gt;bakerboy16.itch.io&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://unity.com/&#34; target=&#34;_blank&#34;&gt;Unity Game Engine&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Are you sure you want to play this?</title>
+      <link>http://localhost:1313/games/aysywtpt/</link>
+      <pubDate>Sun, 15 Dec 2024 10:48:52 +0000</pubDate>
+      <guid>http://localhost:1313/games/aysywtpt/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;In this game demo you play as a beta tester, going through an assortment of different games and &amp;ldquo;play testing&amp;rdquo; them for a developer.&lt;/p&gt;&#xA;&lt;p&gt;This was made for a Uni project with the theme given being &amp;ldquo;Comedy&amp;rdquo;. This project was developed using &lt;a href=&#34;https://unity.com/&#34; target=&#34;_blank&#34;&gt;Unity Game Engine&lt;/a&gt;.&#xA;I have no plans to continue development at the moment.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;&#xA;&lt;h1 id=&#34;play-through-an-assortment-of-experiences&#34;&gt;Play through an assortment of experiences&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/SH.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/DS.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/UK.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;give-feedback&#34;&gt;give feedback&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/FB.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;escape&#34;&gt;ESCAPE&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/ES.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Going Home</title>
       <link>http://localhost:1313/games/gh/</link>
-      <pubDate>Tue, 10 Feb 2026 10:48:52 +0000</pubDate>
+      <pubDate>Sat, 20 Apr 2024 10:48:52 +0000</pubDate>
       <guid>http://localhost:1313/games/gh/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Going Home is the second game I ever worked on. It was made for a Uni project. The objective of the game is to try to make your way home without suffering from an anxiety attack. The theme I was given for the project was to make a narrative emotional experience&lt;/p&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;&#xA;&lt;h1 id=&#34;make-your-way-home&#34;&gt;Make your way home!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/GoHome.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;avoid-all-social-interaction&#34;&gt;Avoid all social interaction!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Avoid.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;dont-get-close&#34;&gt;Don&amp;rsquo;t get close!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Careful.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;play-here&#34;&gt;Play Here&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bakerboy16.itch.io/going-home&#34; target=&#34;_blank&#34;&gt;bakerboy16.itch.io&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Horror game demo</title>
-      <link>http://localhost:1313/games/hgd/</link>
-      <pubDate>Tue, 10 Feb 2026 10:48:52 +0000</pubDate>
-      <guid>http://localhost:1313/games/hgd/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;A small horror game I made in a week, I wanted try my hand at creating an eerie environment, as well as enemy chase AI programming. It ended up being fun to learn and create, also learnt a lot about designing a maze in which you get chased around.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;&#xA;&lt;h1 id=&#34;search-for-levers&#34;&gt;search for levers!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Levers.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;avoid-the-eyes&#34;&gt;Avoid the eyes!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Eye.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;get-out&#34;&gt;Get Out!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/GetOut.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;play-here&#34;&gt;Play Here&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bakerboy16.itch.io/horror-game-demo&#34; target=&#34;_blank&#34;&gt;bakerboy16.itch.io&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://unity.com/&#34; target=&#34;_blank&#34;&gt;Unity Game Engine&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

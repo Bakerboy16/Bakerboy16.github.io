@@ -20,7 +20,11 @@ I was responsible for helping with the gameplay loop, puzzle elements, some leve
 # Can you solve it?
 ![image](/Solve.png)
 
+## Play here
+[just-a-bee.itch.io](https://just-a-bee.itch.io/ukie-2026)
 ## Credits
-[Abby Smith](https://just-a-bee.itch.io/ukie-2026)
+[Abby Smith](https://just-a-bee.github.io/)
+
+[Dexter Love](https://www.linkedin.com/in/dexter-love-285357257/?skipRedirect=true)
  
 [Godot game engine](https://godotengine.org/)
