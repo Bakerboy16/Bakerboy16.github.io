@@ -1,5 +1,5 @@
 +++
-date = '2026-02-10T10:48:52Z'
+date = '2025-04-28T10:48:52Z'
 draft = false
 title = 'FPS demo'
 +++
@@ -10,13 +10,13 @@ This Is a very small project, I wanted to work on testing high maneuverability m
 
 ## Gameplay
 # Shoot your way through the haunted house!
-![image](/House.PNG)
+![image](/House.png)
 
 # Collect Items!
-![image](/Item.PNG)
+![image](/Item.png)
 
 # Get Out!
-![image](/Go.PNG)
+![image](/Go.png)
 
 
 
