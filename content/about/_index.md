@@ -47,6 +47,6 @@ View my stuff [Here](/games/) :)
 
 # Feel free to reach out
 
-[Contact me by Email](/Email/emailPage)
+[Contact me by Email](/email/EmailPage)
 
-[contact me by LinkedIn](https://www.linkedin.com/in/ben-baker-42a9b834b/)
+[Contact me by LinkedIn](https://www.linkedin.com/in/ben-baker-42a9b834b/)
