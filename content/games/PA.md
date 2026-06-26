@@ -18,7 +18,7 @@ My role for the project, was to write the story, concept all items, upgrades, an
 ![image](/PAM.png)
 
 # Upgrade your gear!
-![image](/Upgrades.png)
+![image](/PAU.png)
 
 # Explore this mysterious planet!
 ![image](/PAG.png)

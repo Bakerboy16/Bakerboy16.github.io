@@ -6,8 +6,15 @@
     <description>Recent content in Games on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Apr 2025 10:48:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 10:48:52 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Planet Amvlys</title>
+      <link>http://localhost:1313/games/pa/</link>
+      <pubDate>Wed, 10 Jun 2026 10:48:52 +0000</pubDate>
+      <guid>http://localhost:1313/games/pa/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Planet Amvlys was a student project I created for my game design course at the University of East London. I was the lead designer on the project within a team of 6 students. The project was developed within unreal engine 5 from September 2025 - May 2026.&lt;/p&gt;&#xA;&lt;p&gt;My role for the project, was to write the story, concept all items, upgrades, and enemy&amp;rsquo;s, as well as designing the level and all of its unique player interactions such as puzzles and lore logs. throughout this project, I learned quite a lot about team management, as well as further developing my understanding of UE5&lt;/p&gt;</description>
+    </item>
     <item>
       <title>FPS demo</title>
       <link>http://localhost:1313/games/fpsd/</link>
@@ -27,13 +34,6 @@
       <link>http://localhost:1313/games/hgd/</link>
       <pubDate>Tue, 18 Mar 2025 10:48:52 +0000</pubDate>
       <guid>http://localhost:1313/games/hgd/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;A small horror game I made in a week, I wanted try my hand at creating an eerie environment, as well as enemy chase AI programming. It ended up being fun to learn and create, also learnt a lot about designing a maze in which you get chased around.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;&#xA;&lt;h1 id=&#34;search-for-levers&#34;&gt;search for levers!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Levers.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;avoid-the-eyes&#34;&gt;Avoid the eyes!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Eye.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;get-out&#34;&gt;Get Out!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/GetOut.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;play-here&#34;&gt;Play Here&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bakerboy16.itch.io/horror-game-demo&#34; target=&#34;_blank&#34;&gt;bakerboy16.itch.io&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://unity.com/&#34; target=&#34;_blank&#34;&gt;Unity Game Engine&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Horror game demo</title>
-      <link>http://localhost:1313/games/pa/</link>
-      <pubDate>Tue, 18 Mar 2025 10:48:52 +0000</pubDate>
-      <guid>http://localhost:1313/games/pa/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;A small horror game I made in a week, I wanted try my hand at creating an eerie environment, as well as enemy chase AI programming. It ended up being fun to learn and create, also learnt a lot about designing a maze in which you get chased around.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h2&gt;&#xA;&lt;h1 id=&#34;search-for-levers&#34;&gt;search for levers!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Levers.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;avoid-the-eyes&#34;&gt;Avoid the eyes!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Eye.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;get-out&#34;&gt;Get Out!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/GetOut.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;play-here&#34;&gt;Play Here&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bakerboy16.itch.io/horror-game-demo&#34; target=&#34;_blank&#34;&gt;bakerboy16.itch.io&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://unity.com/&#34; target=&#34;_blank&#34;&gt;Unity Game Engine&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
