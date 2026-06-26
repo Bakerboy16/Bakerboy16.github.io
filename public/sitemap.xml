@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-10T10:48:52+00:00</lastmod>
+    <lastmod>2026-02-27T10:48:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jams/</loc>
+    <lastmod>2026-02-27T10:48:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jams/dev/</loc>
+    <lastmod>2026-02-27T10:48:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-    <lastmod>2026-02-10T10:48:52+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/games/aysywtpt/</loc>
     <lastmod>2026-02-10T10:48:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/email/</loc>
@@ -17,32 +20,32 @@
     <loc>http://localhost:1313/email/emailpage/</loc>
     <lastmod>2026-02-10T10:48:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/games/fpfd/</loc>
-    <lastmod>2026-02-10T10:48:52+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/games/fpsd/</loc>
-    <lastmod>2026-02-10T10:48:52+00:00</lastmod>
+    <lastmod>2025-04-28T10:48:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/games/</loc>
-    <lastmod>2026-02-10T10:48:52+00:00</lastmod>
+    <lastmod>2025-04-28T10:48:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/games/gh/</loc>
-    <lastmod>2026-02-10T10:48:52+00:00</lastmod>
+    <loc>http://localhost:1313/games/fpfd/</loc>
+    <lastmod>2025-04-02T10:48:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/games/hgd/</loc>
-    <lastmod>2026-02-10T10:48:52+00:00</lastmod>
+    <lastmod>2025-03-18T10:48:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jams/</loc>
-    <lastmod>2026-02-10T10:48:52+00:00</lastmod>
+    <loc>http://localhost:1313/games/pa/</loc>
+    <lastmod>2025-03-18T10:48:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jams/dev/</loc>
-    <lastmod>2026-02-10T10:48:52+00:00</lastmod>
+    <loc>http://localhost:1313/games/aysywtpt/</loc>
+    <lastmod>2024-12-15T10:48:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/otherprojects/dev/</loc>
     <lastmod>2024-11-26T10:48:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/otherprojects/</loc>
     <lastmod>2024-11-26T10:48:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/gh/</loc>
+    <lastmod>2024-04-20T10:48:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
   </url><url>
