@@ -13,7 +13,7 @@ The game was designed to be a "rage" game (a game specifically designed to be ha
 
 ## Gameplay
 # Roll
-![image](/roll.png)
+![image](/rolling.png)
 
 # Learn how to control the ball
 ![image](/learnhowtocontroltheball.png)
