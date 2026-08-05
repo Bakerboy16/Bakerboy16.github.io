@@ -24,9 +24,9 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
         {Name = "About", URL = "/about/", HasChildren = false},
-	{Name = "Games", URL = "/games/", HasChildren = true, Limit = 5},
-	{Name = "Jams", URL = "/jams/", HasChildren = true, Limit = 5},
-	{Name = "Other Projects", URL = "/otherprojects/", HasChildren = true, Limit = 5},
+	{Name = "Games", URL = "/games/", HasChildren = true, Limit = 10},
+	{Name = "Game jams", URL = "/jams/", HasChildren = true, Limit = 10},
+	{Name = "Other Projects", URL = "/otherprojects/", HasChildren = true, Limit = 10},
         {Name = "Get in Touch", URL = "/email/", HasChildren = true, Limit = 5},
 	
 
@@ -34,7 +34,6 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 
-    discord_url = "https://discord.com"
     github_url = "https://github.com/Bakerboy16"
     linkedin_url = "https://www.linkedin.com/in/ben-baker-42a9b834b/"
     twitter_url = "https://x.com/TheOnlyBakerboy"

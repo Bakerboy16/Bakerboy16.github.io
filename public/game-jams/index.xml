@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Jams on </title>
+    <link>http://localhost:1313/game-jams/</link>
+    <description>Recent content in Game Jams on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Feb 2026 10:48:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/game-jams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mirari</title>
+      <link>http://localhost:1313/game-jams/dev/</link>
+      <pubDate>Fri, 27 Feb 2026 10:48:52 +0000</pubDate>
+      <guid>http://localhost:1313/game-jams/dev/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Mirari was made for the Ukie Student Game Jam 2026 that took place over 26-27th of February and lasted 32 hours.&lt;/p&gt;&#xA;&lt;p&gt;The theme of the jam was symmetry, based on this we developed a Sokoban-style puzzle game where you play as a sentient mirror who instead of pushing boxes, reflect them to the other side of yourself. This leads to unique puzzle designs where positioning and distances are very important. There are also some additional mechanics you will discover as you play.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

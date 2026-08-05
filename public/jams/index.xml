@@ -6,8 +6,15 @@
     <description>Recent content in Jams on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Feb 2026 10:48:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 10:48:52 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/jams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20 Minutes till showtime</title>
+      <link>http://localhost:1313/jams/2mts/</link>
+      <pubDate>Sun, 26 Jul 2026 10:48:52 +0000</pubDate>
+      <guid>http://localhost:1313/jams/2mts/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/20.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;20 minutes till showtime was my contribution to the GMTK2026 Game Jam that was held over 22-26th of July and lasted 96 hours.&lt;/p&gt;&#xA;&lt;p&gt;The Jam had the theme of &amp;ldquo;countdown&amp;rdquo;, with this theme we decided to go for a noir detective, murder mystery style game. The initial idea was for the murders to be caused by a gun, and the casings of the bullets used would have numbers on them, counting down towards the last murder. Unfortunately we had to pivot to a new plot with only 6 hours left of the jam, due to conflicts with team members schedules, and the initial plot being way too complex for what we actually had time to create.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mirari</title>
       <link>http://localhost:1313/jams/dev/</link>
