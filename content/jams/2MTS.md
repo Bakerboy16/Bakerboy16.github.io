@@ -25,7 +25,7 @@ Our programmer, [Abby](https://just-a-bee.github.io/) was a great help in helpin
 ![image](/Investigate2.png)
 
 # who did it?
-![image](/whodidit.png)
+![image](/who.png)
 
 ## Play here
 [just-a-bee.itch.io](https://just-a-bee.itch.io/20-minutes-to-showtime)
