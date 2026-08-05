@@ -28,8 +28,6 @@ The game was designed to be a "rage" game (a game specifically designed to be ha
 
 
 
-
-
 ## Play Here
 [bakerboy16.itch.io](https://bakerboy16.itch.io/rolling-back)
 
