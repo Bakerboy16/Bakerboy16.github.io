@@ -24,7 +24,7 @@ Our programmer, [Abby](https://just-a-bee.github.io/) was a great help in helpin
 ![image](/Investigate.png)
 ![image](/Investigate2.png)
 
-# Who did it?
+# who did it?
 ![image](/whodidit.png)
 
 ## Play here

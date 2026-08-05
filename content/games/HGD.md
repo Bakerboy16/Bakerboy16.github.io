@@ -17,7 +17,7 @@ A small horror game I made in a week, I wanted try my hand at creating an eerie 
 ![image](/GetOut.png)
 
 
-[Link](/about/)
+[About](/about/)
 
 ## Play Here
 [bakerboy16.itch.io](https://bakerboy16.itch.io/horror-game-demo)
